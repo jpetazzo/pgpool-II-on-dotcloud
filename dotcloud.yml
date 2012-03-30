@@ -1,0 +1,6 @@
+w:
+  type: python-worker
+  processes:
+    pgpool2: ~/current/run.pgpool2
+sql:
+  type: postgresql
